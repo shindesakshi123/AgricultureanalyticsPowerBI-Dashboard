@@ -1,0 +1,1 @@
+Built an interactive dashboard to analyze sensor data, crop yields, fertilizer use, and irrigation methods. Created KPIs for key environmental factors and visualized yield patterns across crops, regions, and seasonal cycles to support data-driven agricultural decisions.
